@@ -6,4 +6,4 @@ The Lord is my shepherd
 - 전) Software Engineer, Indent Corp
 - 전) Software Engineer Intern, Cher Ground
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordmyshepherd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lordmyshepherd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
