@@ -1,5 +1,5 @@
 ## Byeong Min Yoo - Backend Developer at Gracefulrain
-<br></br>
+- The Lord is my shepherd
 
 ## EXPERIENCE
 - 현) Software Engineer, Gracefulrain
