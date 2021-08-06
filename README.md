@@ -1,4 +1,4 @@
-## Byeong Min Yoo - Backend Developer at Wecode
+## Byeong Min Yoo - Backend Developer at Gracefulrain
 
 ## EXPERIENCE
 - 현) Software Engineer, Gracefulrain
